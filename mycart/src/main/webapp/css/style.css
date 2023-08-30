@@ -1,0 +1,54 @@
+@charset "UTF-8";
+.custom-bg{
+	
+	background:#607d8b!important;
+}
+/*  form container */
+#form{
+	
+	width:400px;
+	color:cyan;
+	background-size:100% 100%;
+	background-repeat:no repeat;
+	
+	
+}
+
+.list-group-item.active{
+	
+	background:#607d8b;
+	    background-color:#607d8b;
+	    border-color:#607d8b;
+}
+.discount-lable{
+	
+	font-size:10px;
+}
+.product-card{
+	 background:#e2e2e2;
+	
+	
+	 
+}
+.product-card:hover{
+	 cursor:pointer;
+	 	 background:#e2e2e2;
+	 border:1px solid gray;
+	 
+	 
+	 
+}
+
+.show{
+	display:show;
+}
+#toast-id{
+	
+	min-width:300px;
+	position:fixed;
+	bottom:30px;
+	left:35%;
+	z-index:1;
+	
+}
+
